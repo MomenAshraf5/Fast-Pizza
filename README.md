@@ -4,7 +4,7 @@
 
 A modern pizza ordering application built with React, Redux Toolkit, and React Router. Order your favorite pizzas with real-time cart management, priority delivery options, and geolocation-based address filling.
 
-![Fast Pizza Banar](./public/Banar_Fast_Pizza.png)
+![Fast Pizza Banar](./Banar_Fast_Pizza.png)
 
 ---
 
